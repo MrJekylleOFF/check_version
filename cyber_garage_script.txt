@@ -1,1 +1,1 @@
-{"version": "1.0.2", "notes": "Fixed multiple issues and update setup.md"}
+{"version": "1.0.1", "notes": "Fixed multiple issues and update setup.md"}
