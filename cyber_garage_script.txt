@@ -1,1 +1,1 @@
-{"version": "1.0.2", "notes": "Fixed multiple issues and update setup.md"}
+{"version": "1.0.3", "notes": "Fix crash and bugs. Add possibility to change coords of all tools."}
