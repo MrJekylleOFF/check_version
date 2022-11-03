@@ -1,1 +1,1 @@
-{"version": "1.0.3", "notes": "Fix crash and bugs. Add possibility to change coords of all tools."}
+{"version": "1.0.4", "notes": "Fix paint."}
