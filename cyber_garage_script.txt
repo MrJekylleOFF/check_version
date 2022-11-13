@@ -1,1 +1,1 @@
-{"version": "1.0.4", "notes": "Fix paint."}
+{"version": "1.0.5", "notes": "Add config coords to change the tp of car in paint."}
